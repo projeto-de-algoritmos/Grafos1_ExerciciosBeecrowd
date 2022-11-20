@@ -66,6 +66,7 @@ def init_case(index: int):
     print(f"Pre.: {node.preorder()}")
     print(f"In..: {node.inorder()}")
     print(f"Post: {node.postorder()}")
+    print()
 
 
 def main():
