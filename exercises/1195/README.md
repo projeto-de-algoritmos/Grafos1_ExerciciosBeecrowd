@@ -1,7 +1,5 @@
 # 1195 - Árvore Binária de Busca
 
-Os problemas resolvidos nessa seção são:
-
 Link do problema resolvido - https://www.beecrowd.com.br/judge/pt/problems/view/1195
 
 ## Descrição do Problema
