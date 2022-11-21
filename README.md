@@ -7,7 +7,7 @@
 | Matrícula | Aluno |
 | -- | -- |
 | 18/0127641 | Matheus Afonso de Souza |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0138545 | Thiago Mesquita Peres Nunes de Carvalho |
 
 ## Sobre 
 
