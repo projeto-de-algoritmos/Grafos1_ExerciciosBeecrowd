@@ -1,6 +1,6 @@
-# 1195 - Árvore Binária de Busca
+# 1466 - Percurso em Árvore por Nível
 
-Link do problema resolvido - https://www.beecrowd.com.br/judge/pt/problems/view/1195
+Link do problema resolvido - https://www.beecrowd.com.br/judge/pt/problems/view/1466
 
 ## Descrição do Problema
 Em uma árvore binária, o percurso por nível é um percurso denominado breadth first search (BFS) ou em português, busca em largura, a qual seria não-recursiva por natureza. Este percurso utiliza uma fila ao invés de pilha para armazenar os próximos 2 nodos que devem ser pesquisados (filho à esquerda e à direita). Esta é a razão pela qual você deve percorrer os nodos na ordem FIFO ao invés da ordem LIFO, obtendo desta forma a recursão.
