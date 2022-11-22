@@ -1,6 +1,6 @@
 # Exercicios Beecrowd
 
-**Número da Lista**: X<br>
+**Número da Lista**: 30<br>
 **Conteúdo da Disciplina**: Grafos 1<br>
 
 ## Alunos
