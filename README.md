@@ -13,6 +13,14 @@
 
 Resolução de problemas de grafos de juízes online.
 
+Foram resolvidos os seguintes problemas:
+
+
+- https://www.beecrowd.com.br/judge/pt/problems/view/1195
+- https://www.beecrowd.com.br/judge/pt/problems/view/1200
+- https://www.beecrowd.com.br/judge/pt/problems/view/1466
+- https://www.beecrowd.com.br/judge/pt/problems/view/1835
+
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
