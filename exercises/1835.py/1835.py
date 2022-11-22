@@ -60,17 +60,15 @@ def solve(index: int):
 
   remaining_roads = len(graph) - 1
   if remaining_roads == 0:
-    print('Caso # {}: a promessa foi cumprida'.format(str(index+1)))
+    print('Caso #{}: a promessa foi cumprida'.format(str(index+1)))
   else:
-    print('Caso # {}: ainda falta(m) {} estrada(s)'.format(str(index+1), str(remaining_roads)))
-  print()
+    print('Caso #{}: ainda falta(m) {} estrada(s)'.format(str(index+1), str(remaining_roads)))
 
 
 def main():
   num_cases = int(input())
   for index in range(0, num_cases):
     solve(index)
-  print()
 
 
 if __name__ == "__main__":
